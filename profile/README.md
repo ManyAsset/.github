@@ -1,4 +1,4 @@
-<img width="5000" height="1024" alt="ManyAsset_Logo_main" src="https://github.com/user-attachments/assets/90102106-9afe-4ed9-9f95-45a892d655f0" />
+<img alt="ManyAsset_Logo_main" src="https://github.com/user-attachments/assets/90102106-9afe-4ed9-9f95-45a892d655f0" />
 
 
 
